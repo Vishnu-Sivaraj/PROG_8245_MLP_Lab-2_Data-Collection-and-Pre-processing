@@ -1,0 +1,12 @@
+venv/
+.ipynb_checkpoints/
+*.csv
+*.json
+*.zip
+*.xlsx
+*.parquet
+*.h5
+*.pkl
+*.db
+*.log
+*.tmp
